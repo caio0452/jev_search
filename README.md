@@ -2,7 +2,7 @@
 
 Disclaimer: This project is fully AI-generated and should not be used in production.
 
-This program scans directories of text files and source code to locate passages that match natural language criteria. It communicates with the OpenRouter Decisions API to evaluate text chunks against user-provided conditions.
+This program uses Jev to scan directories of text files and source code to locate passages that match natural language criteria. It communicates with the OpenRouter Decisions API to evaluate text chunks against user-provided conditions.
 
 ## Overview
 
